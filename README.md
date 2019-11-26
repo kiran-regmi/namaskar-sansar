@@ -1,2 +1,2 @@
 # namaskar-sansar
-First GitHub Page Repository
+First GitHub Page/Website Repository
