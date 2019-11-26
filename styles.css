@@ -14,5 +14,7 @@ h1 {
   text-align: center;
 }
  h3 {
-   color: #111B0B; 
+   color: green; //#111B0B; //#7BB94E; //#111B0B;
+   text-align: center;
+    font-size: 50px;
 }
