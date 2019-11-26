@@ -4,6 +4,7 @@ body {
 p {
   color: green; //#111B0B;
   text-align: center;
+  font-size: 50px;
 }
 
 h1 {
