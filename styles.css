@@ -2,7 +2,7 @@ body {
   background: //#000000;   
 }
 p {
-  color: green; //#111B0B;
+  color: #111B0B;  //green;
   text-align: center;
   font-size: 50px;
 }
