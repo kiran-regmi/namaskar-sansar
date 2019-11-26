@@ -1,3 +1,17 @@
-body-background: light blue;
-font-color: blue;
+body {
+  background: 000000;   
+}
+p {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: Athelas;
+  font-size: 20px;
+  color: #7BB94E
+}
+ h3 {
+   color: #111B0B; 
+}
 
